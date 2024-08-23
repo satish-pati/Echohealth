@@ -4,7 +4,7 @@
 The screen serves as the login interface for the Echo Health app.
  The app's name, "Echo Health," is prominently displayed at the top.
 Below the image, a welcome message is displayed.
-The "Get Started" button when clicked  prompts users to enter their login credentials. For new users, the "Sign up" button is available to create a new account.
+The "Get Started" button when clicked  prompts users to navigate to homeScreen. For new users, the "Sign up" button is available to create a new account.
 
 ![login](https://github.com/user-attachments/assets/eb49c244-6188-41f4-8bae-a350c5807b38)
 
