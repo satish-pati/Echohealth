@@ -8,15 +8,25 @@ When users go to the Virtual Ear screen, they see a visual of an ear that repres
 
 2.  Visualization of inner Parts of Ear to external Sounds:
 
+![WhatsApp Image 2024-08-23 at 15 05 10_55b89922](https://github.com/user-attachments/assets/f55b7f87-5d05-41f5-b72e-9a4b0f685e84)
+
+
 The virtual ear shows how noise can harm the ear. Depending on how loud the noise is, the ear animation will display different levels of damage to the eardrum and inner parts. The louder the noise, the more severe the damage shown.
 
 3. Real-Time Decibel Recording:
+![WhatsApp Image 2024-08-23 at 15 05 09_6b56f3ed](https://github.com/user-attachments/assets/0cb2e1a0-c497-4e55-bd2d-e28546305837)
 
 While the animation plays, the app records the surrounding noise levels (decibels) in real-time. This recording affects how the animation behaves:
 
+
 Loud Noise: If the noise is loud, the animation speeds up, showing more rapid and serious damage to the ear.
 
+![WhatsApp Image 2024-08-23 at 15 05 10_be210ad4](https://github.com/user-attachments/assets/7ae8d5e1-3788-40e6-a97e-4b8b6bc0a424)
+
 Medium Noise: If the noise is at a moderate level, the animation proceeds at a normal pace, showing moderate damage to the ear.
+
+![WhatsApp Image 2024-08-23 at 15 05 11_de2ef61a](https://github.com/user-attachments/assets/dadfacfa-5561-4489-a489-3767056efc7a)
+
 
 Quiet Noise: If the noise level is low, the animation slows down, showing less damage.
 
