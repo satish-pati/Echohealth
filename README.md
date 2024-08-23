@@ -5,6 +5,7 @@ Virtual Ear Animation
 
 Functionality
 1. Entering the Virtual Screen:
+![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
 
 ![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
 ![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
@@ -14,7 +15,6 @@ Functionality
 ![IMG-20240823-WA0033](https://github.com/user-attachments/assets/301adafd-66bd-4eda-b584-40a101d9586e)
 
 
-![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
 
 
 ![WhatsApp Image 2024-08-23 at 15 05 09_6b56f3ed](https://github.com/user-attachments/assets/0cb2e1a0-c497-4e55-bd2d-e28546305837)
