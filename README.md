@@ -16,6 +16,7 @@ Functionality
 
 
 When users go to the Virtual Ear screen, they see a visual of an ear that represents a ear. This virtual ear reacts to the noise around them.
+![WhatsApp Image 2024-08-23 at 15 05 09_87e95424](https://github.com/user-attachments/assets/41b08896-6bd6-41b2-b2a2-7046f906db05)
 
 2.  Visualization of inner Parts of Ear to external Sounds:
 ![IMG-20240823-WA0035](https://github.com/user-attachments/assets/ffe6487e-4627-4742-816d-010e18743e88)
@@ -31,7 +32,6 @@ The virtual ear shows how noise can harm the ear. Depending on how loud the nois
 ![IMG-20240823-WA0036](https://github.com/user-attachments/assets/7bf96daa-8fbb-46b0-a751-e31ba4143002)
 
 While the animation plays, the app records the surrounding noise levels (decibels) in real-time. This recording affects how the animation behaves:
-![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
 
 Loud Noise: If the noise is loud, the animation speeds up, showing more rapid and serious damage to the ear.
 ![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
@@ -42,12 +42,13 @@ Loud Noise: If the noise is loud, the animation speeds up, showing more rapid an
 
 Medium Noise: If the noise is at a moderate level, the animation proceeds at a normal pace, showing moderate damage to the ear.
 
+
+
+Quiet Noise: If the noise level is low, the animation slows down, showing less damage.
 ![WhatsApp Image 2024-08-23 at 15 05 09_6b56f3ed](https://github.com/user-attachments/assets/0cb2e1a0-c497-4e55-bd2d-e28546305837)
 
 
 
-
-Quiet Noise: If the noise level is low, the animation slows down, showing less damage.
 
 
 4. Interactive Dialogue Box:
