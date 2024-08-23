@@ -237,8 +237,7 @@ Profile Dashboard
 
 
 Contribution:
-Satish(CS23B038):
--
+
 
 Amar Gupta(CS23B004) :
 Research on ear :
@@ -248,5 +247,71 @@ Tejas Karthik(CS23B039) :
  -	I’ve put up the idea of the project. Explained the functions to teammates. Coordinated them. 
  -	I did the Audiometry function frontend and backend logic which produces sounds from 0 db to 120 db at a particular frequency and repeats this experiment 6 times to measure the ear health of the user.
  -	I’ve done the Audiogram which creates a graph from the data of audiometry. 
- -	I’ve improved the other UI pages done by my teammates.   
+ -	I’ve improved the other UI pages done by my teammates.
+
+Satish Pati(CS23B038) :
+-Virtual Ear Animation Video Player:
+
+I developed a video player that plays animations of a virtual ear, which records sound decibels in the background. This player visually demonstrates how the internal organs of the ear are affected by external sounds based on varying decibel levels.
+
+-Decibel Recording and Display:
+
+I also created a Decibel screen that displays the current sound levels, including designing the user interface and implementing the audio recording logic. Additionally, I worked on calculating and displaying the average decibel levels based on the recorded data.
+
+-Results Screen:
+
+I created the Results screen, which pulls data from the database to show hearing levels and average decibels for each ear. It also provides tips to help users protect their hearing and prevent damage.
+
+-Profile Screen Backend:
+I implemented the backend logic for the Profile screen, which involves retrieving, saving, and displaying user data on the Profile Dashboard. This includes developing the necessary functions to fetch user details and store updated information.
+
+-MainActivity Navigations:
+
+I implemented the navigation logic within the homeScreen, ensuring smooth transitions between different screens of the app. This includes setting up navigation components to handle user interactions and navigating to features like the Decibel screen, Results screen, and Profile screen.
+
+-DataBase for Earhealth and Tips:
+
+I set up a database to store information about ear health and tips. It includes a table that tracks things like the decibel level, how long and often someone is exposed to noise, the risk level, and possible hearing problems in the future.
+
+-Gathering frames for creating Ear animation and creating a animation:
+"I gathered the necessary frames and then created a complete animation for the ear based on those frames."
+
+Binnu(CS23B037):
+Figma Layouts Design:
+
+Designed the app's layouts using Figma.
+Frontend Code for Account Creation:
+
+Developed the frontend code for the account creation screen, allowing users to enter their details and create an account.
+Profile Dashboard Frontend:
+
+Wrote the frontend code for the Profile Dashboard, where users can view their details.
+Decibel Level Circle:
+
+Designed and implemented the Decibel Level Circle, which visually displays the decibel level in a circular format. ivi rastunna
+
+Helped with designing presentations in pitch : software’s used are photoshop and canva
+
+I Designed app logo using the Software adobe Illustrator.
+
+Saranya M- CS23B031 :
+
+Designed the initial app layouts on Figma.
+
+UI codes for Login screen ,Home screen ,Splash Screen ,initial Results Screen and a dialog box for the virtual ear.
+
+Helped in preparing 50% of  the Readme file.
+
+GaneshSai P- CS23B041:
+
+"I implemented a scroll bar on the homepage, where tips are randomized each time and move from left to right, with new tips displayed every 10 seconds,, I also gathered the data of tips ".
+
+"Calculation of the average decibel level on the decibel screen and the UI design for displaying the avg decibel  dialog box."
+
+
+" I did ui design for displaying dialog boxes in hearing test(saying to connect Bluetooth and increase volume ) and dialog box in virtual ear ( saying to rotate phone)."
+
+" I calculated the average decibel level from background ,, so that I can use it to control the animation speed of virtual ear."
+
+" I contributed 25% in writing readme file."
 
