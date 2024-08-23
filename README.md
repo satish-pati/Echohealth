@@ -1,5 +1,23 @@
 
 # Echohealth
+
+The screen serves as the login interface for the Echo Health app.
+ The app's name, "Echo Health," is prominently displayed at the top.
+Below the image, a welcome message is displayed.
+The "Get Started" button when clicked  prompts users to enter their login credentials. For new users, the "Sign up" button is available to create a new account.
+
+![login](https://github.com/user-attachments/assets/eb49c244-6188-41f4-8bae-a350c5807b38)
+
+Home screen
+
+1) Welcome Message: At the top, a welcome message is displayed.
+2) Feature Options: Below the welcome message, three main features are listed:
+   i) Quick Hearing Test: This option allows users to go through a brief hearing test. This option is presented with a button  and a brief description, making it easy for users to understand its purpose.
+   ii)Know Surrounding Noise: This feature also has a button and a description, it helps user  to check the surrounding noise level.
+   iii)Peek Into the Ear: This option also has a button and a description, helps users to explore a virtual representation of the ear canal.
+![home screen](https://github.com/user-attachments/assets/270a4b97-b262-4306-8695-b298e0c02ab5)
+
+
 Virtual Ear Animation  
 
 ![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
@@ -131,21 +149,6 @@ ProfileDashBoard
 
 Profile Dashboard
 
-The screen serves as the login interface for the Echo Health app.
- The app's name, "Echo Health," is prominently displayed at the top.
-Below the image, a welcome message is displayed.
-The "Get Started" button when clicked  prompts users to enter their login credentials. For new users, the "Sign up" button is available to create a new account.
-
-![login](https://github.com/user-attachments/assets/eb49c244-6188-41f4-8bae-a350c5807b38)
-
-Home screen
-
-1) Welcome Message: At the top, a welcome message is displayed.
-2) Feature Options: Below the welcome message, three main features are listed:
-   i) Quick Hearing Test: This option allows users to go through a brief hearing test. This option is presented with a button  and a brief description, making it easy for users to understand its purpose.
-   ii)Know Surrounding Noise: This feature also has a button and a description, it helps user  to check the surrounding noise level.
-   iii)Peek Into the Ear: This option also has a button and a description, helps users to explore a virtual representation of the ear canal.
-![home screen](https://github.com/user-attachments/assets/270a4b97-b262-4306-8695-b298e0c02ab5)
 
  After clicking on the "Hearing Test" option in the Echo Health app this screen appears which say if bluetooth connection is missing or volume is not maximum. It has a simple prompt that guides the user to ensure their Bluetooth connection is established and the volume is maximized before proceeding with the hearing test.
  The "Back" button allows the user to return to the previous screen if necessary.
