@@ -6,9 +6,9 @@ Functionality
 1. Entering the Virtual Screen:
 
 
+![WhatsApp Image 2024-08-23 at 15 05 09_87e95424](https://github.com/user-attachments/assets/41b08896-6bd6-41b2-b2a2-7046f906db05)
 
 
-![IMG-20240823-WA0033](https://github.com/user-attachments/assets/301adafd-66bd-4eda-b584-40a101d9586e)
 
 
 
@@ -16,7 +16,8 @@ Functionality
 
 
 When users go to the Virtual Ear screen, they see a visual of an ear that represents a ear. This virtual ear reacts to the noise around them.
-![WhatsApp Image 2024-08-23 at 15 05 09_87e95424](https://github.com/user-attachments/assets/41b08896-6bd6-41b2-b2a2-7046f906db05)
+![IMG-20240823-WA0033](https://github.com/user-attachments/assets/301adafd-66bd-4eda-b584-40a101d9586e)
+
 
 2.  Visualization of inner Parts of Ear to external Sounds:
 ![IMG-20240823-WA0035](https://github.com/user-attachments/assets/ffe6487e-4627-4742-816d-010e18743e88)
@@ -34,7 +35,7 @@ The virtual ear shows how noise can harm the ear. Depending on how loud the nois
 While the animation plays, the app records the surrounding noise levels (decibels) in real-time. This recording affects how the animation behaves:
 
 Loud Noise: If the noise is loud, the animation speeds up, showing more rapid and serious damage to the ear.
-![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
+![WhatsApp Image 2024-08-23 at 15 05 09_cdabdf3c](https://github.com/user-attachments/assets/791ffa1f-b8b4-44a2-9b19-35af07eae3fd)
 
 
 
