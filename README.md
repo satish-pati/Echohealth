@@ -7,6 +7,8 @@ Functionality
 When users go to the Virtual Ear screen, they see a visual of an ear that represents a ear. This virtual ear reacts to the noise around them.
 
 2.  Visualization of inner Parts of Ear to external Sounds:
+![WhatsApp Image 2024-08-23 at 15 05 10_cdc7961b](https://github.com/user-attachments/assets/319c77c3-dbf8-4c4d-83cf-0876f0977965)
+![WhatsApp Image 2024-08-23 at 15 05 10_c7833988](https://github.com/user-attachments/assets/c4f337e0-5d94-439a-98cb-216799b0d368)
 
 
 
