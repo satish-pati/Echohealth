@@ -227,4 +227,11 @@ Users can use the Audiogram Screen to check their hearing health at different ti
 Informed Decisions:
 With this information, users can make informed decisions about their hearing care. If the Audiogram shows significant hearing loss at certain frequencies, it might prompt the user to seek further testing or hearing aids.
 
-![audiogram](https://github.com/user-attachments/assets/664cad67-c12b-4224-8c42-b7acd2f9e603)
+![WhatsApp Image 2024-08-23 at 6 43 05 PM](https://github.com/user-attachments/assets/9373d57c-af5c-4d6a-af54-f7dd030ad09a)
+
+Contribution:
+
+Amar Gupta(CS23B004) :
+Research on ear :
+Gather all information on ear structure, sound effect, decibel unit which are safe, mild, severe etc.
+
