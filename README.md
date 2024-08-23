@@ -1,11 +1,10 @@
 # Echohealth
 Virtual Ear Animation  
 
-![WhatsApp Image 2024-08-23 at 15 04 58_0e28348b](https://github.com/user-attachments/assets/7bbe4a4f-40b7-4923-8fc6-f5592616efd5)
-
+![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
 Functionality
 1. Entering the Virtual Screen:
-![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
+
 
 ![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
 ![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
