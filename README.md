@@ -21,6 +21,11 @@ Home screen
 
 Virtual Ear Animation  
 
+![WhatsApp Image 2024-08-23 at 18 48 49_23b55e2a](https://github.com/user-attachments/assets/fc53f38e-7e0c-4e8c-9bae-101fba9785a0)
+
+"This dialog box informs users that switching their phone to landscape mode will improve the viewing experience of the virtual ear animation. It ensures that the animation is displayed correctly and enhances user interaction by providing a wider and more suitable viewing area."
+
+
 ![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
 Functionality
 1. Entering the Virtual Screen:
