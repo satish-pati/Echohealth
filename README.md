@@ -69,7 +69,6 @@ Noise Description: It tells the user what the noise level around them was like (
 Eardrum Functionality: It explains how well the eardrum is working based on the recorded noise, and whether there are signs of damage.
 
 
-![WhatsApp Image 2024-08-23 at 17 59 04_80d9e9d1](https://github.com/user-attachments/assets/919ec2c6-d747-4bbb-a3a8-15b5b7116393)
 
 
 
