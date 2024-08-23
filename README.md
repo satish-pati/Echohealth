@@ -87,6 +87,8 @@ Uses :
 The Virtual Ear Visualization is engaging and easy to use. The combination of real-time noise tracking, dynamic animation, and informative dialogue keeps users involved and informed about their hearing health.
 
 Decibel monitoring screen:
+
+
 ![WhatsApp Image 2024-08-23 at 17 06 41_88a1a1ab](https://github.com/user-attachments/assets/8914ab18-20d6-4441-b534-95048e5973f6)
 
 
