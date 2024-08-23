@@ -6,6 +6,15 @@ Virtual Ear Animation
 Functionality
 1. Entering the Virtual Screen:
 
+![IMG-20240823-WA0036](https://github.com/user-attachments/assets/7bf96daa-8fbb-46b0-a751-e31ba4143002)
+![IMG-20240823-WA0035](https://github.com/user-attachments/assets/ffe6487e-4627-4742-816d-010e18743e88)
+![IMG-20240823-WA0034](https://github.com/user-attachments/assets/2d889c1b-eda1-4d29-89e0-161b5e47a0a1)
+![IMG-20240823-WA0033](https://github.com/user-attachments/assets/301adafd-66bd-4eda-b584-40a101d9586e)
+![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
+![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
+![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
+
+
 ![WhatsApp Image 2024-08-23 at 15 05 09_6b56f3ed](https://github.com/user-attachments/assets/0cb2e1a0-c497-4e55-bd2d-e28546305837)
 
 
@@ -23,12 +32,14 @@ The virtual ear shows how noise can harm the ear. Depending on how loud the nois
 
 3. Real-Time Decibel Recording:
 
+![WhatsApp Image 2024-08-23 at 15 05 10_55b89922](https://github.com/user-attachments/assets/f55b7f87-5d05-41f5-b72e-9a4b0f685e84)
+
 While the animation plays, the app records the surrounding noise levels (decibels) in real-time. This recording affects how the animation behaves:
 
 
 Loud Noise: If the noise is loud, the animation speeds up, showing more rapid and serious damage to the ear.
 
-![WhatsApp Image 2024-08-23 at 15 05 10_55b89922](https://github.com/user-attachments/assets/f55b7f87-5d05-41f5-b72e-9a4b0f685e84)
+
 
 
 
