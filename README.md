@@ -130,4 +130,101 @@ ProfileDashBoard
 
 ![WhatsApp Image 2024-08-23 at 17 06 55_17802f7e](https://github.com/user-attachments/assets/d77abfe9-6d43-4cf7-a0a3-e5287a57a5d3)
 
-"jhgfdf
+Profile Dashboard
+
+The screen serves as the login interface for the Echo Health app.
+ The app's name, "Echo Health," is prominently displayed at the top.
+Below the image, a welcome message is displayed.
+The "Get Started" button when clicked  prompts users to enter their login credentials. For new users, the "Sign up" button is available to create a new account.
+
+![login](https://github.com/user-attachments/assets/eb49c244-6188-41f4-8bae-a350c5807b38)
+
+Home screen
+
+1) Welcome Message: At the top, a welcome message is displayed.
+2) Feature Options: Below the welcome message, three main features are listed:
+   i) Quick Hearing Test: This option allows users to go through a brief hearing test. This option is presented with a button  and a brief description, making it easy for users to understand its purpose.
+   ii)Know Surrounding Noise: This feature also has a button and a description, it helps user  to check the surrounding noise level.
+   iii)Peek Into the Ear: This option also has a button and a description, helps users to explore a virtual representation of the ear canal.
+![home screen](https://github.com/user-attachments/assets/270a4b97-b262-4306-8695-b298e0c02ab5)
+
+ After clicking on the "Hearing Test" option in the Echo Health app this screen appears which say if bluetooth connection is missing or volume is not maximum. It has a simple prompt that guides the user to ensure their Bluetooth connection is established and the volume is maximized before proceeding with the hearing test.
+ The "Back" button allows the user to return to the previous screen if necessary.
+
+ 
+![warning](https://github.com/user-attachments/assets/a9319736-16e0-40fa-b80f-6d56a20eacec)
+
+Hearing Test window
+
+Here's a breakdown of what the text indicates:
+1)	"Left-Ear" and "Right-Ear": These labels are there so you can chose which ear to test first.
+2)	"Frequency: 250 Hz": This indicates the frequency used for the test.
+3)	"Decibels: "  This shows the how much decibal sound is produced.
+4)	"FIND A QUIET PLACE": This is a crucial instruction, as background noise can interfere with the accuracy of the test.
+5)	"START": This is the primary button to start the hearing test.
+
+
+
+![first](https://github.com/user-attachments/assets/ed0a0bc0-ab4a-4c59-877c-14eaedcc7864)
+
+Sound Production:
+1)	After clicking "Start," the app will begin emitting sounds at a frequency chosen.
+2)	The decibel level of these sounds will gradually increase at a constant rate.
+
+User Interaction:
+1)	The screen will display a green tab with the instruction "Tap just after you hear."
+2)	You are instructed to tap this tab as soon as you hear the sound being emitted.
+
+Data Collection:
+1)	The app will record the decibel level at which you tapped the green tab.
+2)	This data will be added to your hearing test results database.
+
+
+![second](https://github.com/user-attachments/assets/68d331da-faaa-4eed-aec9-40722cb5e5e1)
+
+1.	Ear Selection: You can select the left or right ear for testing.
+2.	Frequency : For each ear, you can check at different frequencies.
+3.	Decibel : At each frequency, the decibel level would start from low and it will gradually increase until you click the below tab to specify that you can hear the sound.
+4.	Data Collection: For each frequency and decibel level where you hear the sound, the app would record that data point in database.
+By collecting data for both ears and across a range of frequencies, the app can provide a more accurate hearing result.
+
+
+![WhatsApp Image 2024-08-23 at 4 38 29 PM](https://github.com/user-attachments/assets/09d8865d-35fe-4d66-8b69-8af3e8145eda)
+![WhatsApp Image 2024-08-23 at 4 38 28 PM (1)](https://github.com/user-attachments/assets/49f7e193-927d-4e95-9a86-f14cb4a995f4)
+
+Results
+
+1)	Hearing Test Result: The test results with data collected will be shown here. It may be Normal, Mild, Severe, Profound hearing loss. 
+2)	Recommendations: After result, the suggestion and precuations are displayed.
+3)	Hearing Levels:
+    i)	Left Ear: Average hearing level of left ear is displayed based on data collected.
+    ii)	Right Ear: Average hearing level of right ear is displayed based on data collected.
+4)	Audiogram: The user has the option to view their audiogram by clicking the "Check AUDIOGRAM" button.
+
+
+![result](https://github.com/user-attachments/assets/d9a99fc4-20f1-4a87-995c-f58098687691)
+
+Audiogram
+
+The Audiogram Screen is a feature that represents a person's hearing ability by plotting a graph at different frequencies, decibel levels. It is simple line graph.
+
+Functionality:
+
+Graph of Frequencies and Decibels:
+
+The Audiogram Screen displays a graph where the x-axis represents different sound frequencies, and the y-axis represents the corresponding decibel levels.
+Each point on the graph shows the quietest sound a person can hear at each of these frequencies. The lower the point, the better the person's hearing at that frequency.
+Data Source:
+
+The graph is based on the results from a hearing test the user has performed. During the test, the app collects data at different frequencies. This data is then used to plot the points on the graph.
+
+User Insight:
+By looking at the Audiogram, users can  understand their hearing ability. For example, if the points on the graph are high on the y-axis, it indicates that the person needs louder sound to hear at those frequencies, which suggest some hearing loss.
+
+Tracking Changes Over Time:
+Users can use the Audiogram Screen to check their hearing health at different time interval, wheter there are improvement or not. 
+
+Informed Decisions:
+With this information, users can make informed decisions about their hearing care. If the Audiogram shows significant hearing loss at certain frequencies, it might prompt the user to seek further testing or hearing aids.
+
+![audiogram](https://github.com/user-attachments/assets/664cad67-c12b-4224-8c42-b7acd2f9e603)
