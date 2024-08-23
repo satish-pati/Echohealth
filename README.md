@@ -25,10 +25,6 @@ When users go to the Virtual Ear screen, they see a visual of an ear that repres
 2.  Visualization of inner Parts of Ear to external Sounds:
 ![IMG-20240823-WA0035](https://github.com/user-attachments/assets/ffe6487e-4627-4742-816d-010e18743e88)
 
-//![IMG-20240823-WA0034](https://github.com/user-attachments/assets/2d889c1b-eda1-4d29-89e0-161b5e47a0a1)
-//![WhatsApp Image 2024-08-23 at 15 05 10_cdc7961b](https://github.com/user-attachments/assets/319c77c3-dbf8-4c4d-83cf-0876f0977965)
-
-
 
 The virtual ear shows how noise can harm the ear. Depending on how loud the noise is, the ear animation will display different levels of damage to the eardrum and inner parts. The louder the noise, the more severe the damage shown.
 
