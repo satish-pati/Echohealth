@@ -112,15 +112,15 @@ The Virtual Ear Visualization is engaging and easy to use. The combination of re
 Decibel monitoring screen:
 
 
-![WhatsApp Image 2024-08-23 at 17 06 41_88a1a1ab](https://github.com/user-attachments/assets/8914ab18-20d6-4441-b534-95048e5973f6)
 
+![WhatsApp Image 2024-08-23 at 20 37 09_7182bee5](https://github.com/user-attachments/assets/b254038b-e5ed-47e4-a2cd-8ae99b77b0a9)
 
 
 “This screen displays the current noise level in your surroundings, measured in decibels (dB). It provides real-time feedback on the intensity of sound in your environment . The display will update dynamically, allowing you to monitor changes in noise levels as they happen. When user taps profile icon, it navigates to profile dashboard. “
 
 
+![WhatsApp Image 2024-08-23 at 20 37 08_ea870b88](https://github.com/user-attachments/assets/c719e7f3-7a0f-40f5-a19a-92e5e1becc3e)
 
-![WhatsApp Image 2024-08-23 at 17 06 41_e6d9ba29](https://github.com/user-attachments/assets/17f61392-c598-473f-b416-a936960d6a27)
 
 
 
