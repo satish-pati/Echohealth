@@ -251,6 +251,7 @@ Tejas Karthik(CS23B039) :
  -	I’ve improved the other UI pages done by my teammates.
 
 Satish Pati(CS23B038) :
+
 -Virtual Ear Animation Video Player:
 
 I developed a video player that plays animations of a virtual ear, which records sound decibels in the background. This player visually demonstrates how the internal organs of the ear are affected by external sounds based on varying decibel levels.
