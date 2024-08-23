@@ -241,7 +241,8 @@ Contribution:
 
 Amar Gupta(CS23B004) :
 Research on ear :
-Gather all information on ear structure, sound effect, decibel unit which are safe, mild, severe etc.
+Gather all information on ear structure, sound effect, decibel unit which are safe, mild, severe etc and comtributed 25% in ReadMe file 
+
 
 Tejas Karthik(CS23B039) :
  -	I’ve put up the idea of the project. Explained the functions to teammates. Coordinated them. 
