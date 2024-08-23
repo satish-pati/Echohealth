@@ -241,8 +241,12 @@ Contribution:
 
 Amar Gupta(CS23B004) :
 Research on ear :
-Gather all information on ear structure, sound effect, decibel unit which are safe, mild, severe etc and comtributed 25% in ReadMe file 
+Ear Structure: Researched the human ear's anatomy and how sound travels through it to produce hearing.
 
+Sound Effect on the Ear: Investigated how different noise levels impact the ear, especially in causing hearing damage.
+
+Decibel Units and Safety Levels: Studied decibel units and identified safe and harmful sound exposure levels.
+Contributed 25% to the README, summarizing research on ear health and the app's purpose.
 
 Tejas Karthik(CS23B039) :
  -	I’ve put up the idea of the project. Explained the functions to teammates. Coordinated them. 
@@ -309,7 +313,6 @@ GaneshSai P- CS23B041:
 "I implemented a scroll bar on the homepage, where tips are randomized each time and move from left to right, with new tips displayed every 10 seconds,, I also gathered the data of tips ".
 
 "Calculation of the average decibel level on the decibel screen and the UI design for displaying the avg decibel  dialog box."
-
 
 " I did ui design for displaying dialog boxes in hearing test(saying to connect Bluetooth and increase volume ) and dialog box in virtual ear ( saying to rotate phone)."
 
