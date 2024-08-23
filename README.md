@@ -5,10 +5,8 @@ Virtual Ear Animation
 Functionality
 1. Entering the Virtual Screen:
 
-
-![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
 ![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
-![IMG-20240823-WA0036](https://github.com/user-attachments/assets/7bf96daa-8fbb-46b0-a751-e31ba4143002)
+![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
 
 
 ![IMG-20240823-WA0033](https://github.com/user-attachments/assets/301adafd-66bd-4eda-b584-40a101d9586e)
@@ -31,7 +29,7 @@ The virtual ear shows how noise can harm the ear. Depending on how loud the nois
 
 
 3. Real-Time Decibel Recording:
-
+![IMG-20240823-WA0036](https://github.com/user-attachments/assets/7bf96daa-8fbb-46b0-a751-e31ba4143002)
 ![WhatsApp Image 2024-08-23 at 15 05 10_55b89922](https://github.com/user-attachments/assets/f55b7f87-5d05-41f5-b72e-9a4b0f685e84)
 
 While the animation plays, the app records the surrounding noise levels (decibels) in real-time. This recording affects how the animation behaves:
