@@ -85,3 +85,24 @@ Uses :
 
 3.Interactive Experience:
 The Virtual Ear Visualization is engaging and easy to use. The combination of real-time noise tracking, dynamic animation, and informative dialogue keeps users involved and informed about their hearing health.
+Decibel monitoring screen:
+![WhatsApp Image 2024-08-23 at 17 06 42_b731443c](https://github.com/user-attachments/assets/19efb477-dcaa-42b4-8778-7e0d3fabacef)
+
+
+“This screen displays the current noise level in your surroundings, measured in decibels (dB). It provides real-time feedback on the intensity of sound in your environment . The display will update dynamically, allowing you to monitor changes in noise levels as they happen. When user taps profile icon, it navigates to profile dashboard. “
+
+Uses:
+
+“Monitoring the noise level in your surroundings can be crucial for protecting your hearing health. Prolonged exposure to high noise levels can lead to hearing damage or loss. By keeping track of the decibel level, you can make informed decisions, such as moving to a quieter area or using hearing protection when necessary. This feature helps you stay aware of potentially harmful noise environments, whether you're at work, home, or outdoors, contributing to long-term hearing safety and well-being.”
+
+![WhatsApp Image 2024-08-23 at 17 06 41_e6d9ba29](https://github.com/user-attachments/assets/17f61392-c598-473f-b416-a936960d6a27)
+
+
+
+UI Changes:
+“ When user taps Start button, the screen records audio in surrounding .While audio recording , according to decibel level , the circle fills proportionally to audio captured. As the app records the surrounding noise, you'll see a dynamic waveform moving across the screen.”
+
+![WhatsApp Image 2024-08-23 at 17 06 41_88a1a1ab](https://github.com/user-attachments/assets/8914ab18-20d6-4441-b534-95048e5973f6)
+
+
+“ When user taps Stop button,, it will show Average decibels recorded during the time , he/she recording
