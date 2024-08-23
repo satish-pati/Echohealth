@@ -1,9 +1,9 @@
 # Echohealth
 Virtual Ear Animation  
-![WhatsApp Image 2024-08-23 at 15 04 58_0e28348b](https://github.com/user-attachments/assets/7bbe4a4f-40b7-4923-8fc6-f5592616efd5)
+
 Functionality
 1. Entering the Virtual Screen:
-
+![WhatsApp Image 2024-08-23 at 15 04 58_0e28348b](https://github.com/user-attachments/assets/7bbe4a4f-40b7-4923-8fc6-f5592616efd5)
 When users go to the Virtual Ear screen, they see a visual of an ear that represents a ear. This virtual ear reacts to the noise around them.
 
 2.  Visualization of inner Parts of Ear to external Sounds:
