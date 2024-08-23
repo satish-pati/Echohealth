@@ -136,23 +136,6 @@ Uses:
 
 
 
-Profile Screen
-
-![WhatsApp Image 2024-08-23 at 17 06 55_537549fd](https://github.com/user-attachments/assets/c3a19326-8dde-4c31-8900-0c16b2bef7d5)
-
-
-“User is asked to provide their username, email address, gender, and age to complete profile. This information is essential for creating a personalized experience within the app. ”
-
-
-ProfileDashBoard
-
-
-“ After completing the profile, it will show profile dashboard.”
-
-![WhatsApp Image 2024-08-23 at 17 06 55_17802f7e](https://github.com/user-attachments/assets/d77abfe9-6d43-4cf7-a0a3-e5287a57a5d3)
-
-Profile Dashboard
-
 
  After clicking on the "Hearing Test" option in the Echo Health app this screen appears which say if bluetooth connection is missing or volume is not maximum. It has a simple prompt that guides the user to ensure their Bluetooth connection is established and the volume is maximized before proceeding with the hearing test.
  The "Back" button allows the user to return to the previous screen if necessary.
@@ -234,6 +217,27 @@ Informed Decisions:
 With this information, users can make informed decisions about their hearing care. If the Audiogram shows significant hearing loss at certain frequencies, it might prompt the user to seek further testing or hearing aids.
 
 ![WhatsApp Image 2024-08-23 at 18 43 06_7a20a5a7](https://github.com/user-attachments/assets/2ec0f5c8-2b57-4c9c-95e3-6e29373c8982)
+
+
+
+Profile Screen
+
+![WhatsApp Image 2024-08-23 at 17 06 55_537549fd](https://github.com/user-attachments/assets/c3a19326-8dde-4c31-8900-0c16b2bef7d5)
+
+
+“User is asked to provide their username, email address, gender, and age to complete profile. This information is essential for creating a personalized experience within the app. ”
+
+
+ProfileDashBoard
+
+
+“ After completing the profile, it will show profile dashboard.”
+
+Profile Dashboard
+
+![WhatsApp Image 2024-08-23 at 17 06 55_17802f7e](https://github.com/user-attachments/assets/d77abfe9-6d43-4cf7-a0a3-e5287a57a5d3)
+
+
 
 Contribution:
 
