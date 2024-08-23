@@ -116,12 +116,15 @@ Uses:
 
 
 Profile Screen
+
 ![WhatsApp Image 2024-08-23 at 17 06 55_537549fd](https://github.com/user-attachments/assets/c3a19326-8dde-4c31-8900-0c16b2bef7d5)
 
 
 “User is asked to provide their username, email address, gender, and age to complete profile. This information is essential for creating a personalized experience within the app. ”
 
+
 ProfileDashBoard
+
 
 “ After completing the profile, it will show profile dashboard.”
 
