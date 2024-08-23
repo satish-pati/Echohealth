@@ -5,7 +5,6 @@ Virtual Ear Animation
 Functionality
 1. Entering the Virtual Screen:
 
-![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
 
 
 
@@ -14,7 +13,6 @@ Functionality
 
 
 
-![WhatsApp Image 2024-08-23 at 15 05 09_6b56f3ed](https://github.com/user-attachments/assets/0cb2e1a0-c497-4e55-bd2d-e28546305837)
 
 
 When users go to the Virtual Ear screen, they see a visual of an ear that represents a ear. This virtual ear reacts to the noise around them.
@@ -36,12 +34,15 @@ While the animation plays, the app records the surrounding noise levels (decibel
 ![IMG-20240823-WA0032](https://github.com/user-attachments/assets/8e3bc787-0f52-47c7-b0ab-da4037226f6d)
 
 Loud Noise: If the noise is loud, the animation speeds up, showing more rapid and serious damage to the ear.
+![IMG-20240823-WA0031](https://github.com/user-attachments/assets/dfd29b34-3020-49b9-ae3d-fcfd32b52358)
 
 
 
 
 
 Medium Noise: If the noise is at a moderate level, the animation proceeds at a normal pace, showing moderate damage to the ear.
+
+![WhatsApp Image 2024-08-23 at 15 05 09_6b56f3ed](https://github.com/user-attachments/assets/0cb2e1a0-c497-4e55-bd2d-e28546305837)
 
 
 
