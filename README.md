@@ -19,10 +19,7 @@ Home screen
 ![WhatsApp Image 2024-08-23 at 20 37 09_bb1efc8f](https://github.com/user-attachments/assets/aa488671-b370-414c-a25c-c34283c287e7)
 
 
-Virtual Ear Animation
-
-![WhatsApp Image 2024-08-23 at 18 48 49_23b55e2a](https://github.com/user-attachments/assets/9ff63dac-212e-499d-9be0-e85faae087f5)
-
+Virtual Ear Animation  
 
 ![IMG-20240823-WA0030](https://github.com/user-attachments/assets/6cc36ca3-b74a-4f0c-b9a8-2a8d9be90dc4)
 Functionality
@@ -216,7 +213,7 @@ Users can use the Audiogram Screen to check their hearing health at different ti
 Informed Decisions:
 With this information, users can make informed decisions about their hearing care. If the Audiogram shows significant hearing loss at certain frequencies, it might prompt the user to seek further testing or hearing aids.
 
-![WhatsApp Image 2024-08-23 at 18 43 06_7a20a5a7](https://github.com/user-attachments/assets/2ec0f5c8-2b57-4c9c-95e3-6e29373c8982)
+![WhatsApp Image 2024-08-23 at 6 43 05 PM](https://github.com/user-attachments/assets/9373d57c-af5c-4d6a-af54-f7dd030ad09a)
 
 
 
@@ -244,4 +241,10 @@ Contribution:
 Amar Gupta(CS23B004) :
 Research on ear :
 Gather all information on ear structure, sound effect, decibel unit which are safe, mild, severe etc.
+
+Tejas Karthik(CS23B039) :
+ -	I’ve put up the idea of the project. Explained the functions to teammates. Coordinated them. 
+ -	I did the Audiometry function frontend and backend logic which produces sounds from 0 db to 120 db at a particular frequency and repeats this experiment 6 times to measure the ear health of the user.
+ -	I’ve done the Audiogram which creates a graph from the data of audiometry. 
+ -	I’ve improved the other UI pages done by my teammates.   
 
