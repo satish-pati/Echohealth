@@ -57,18 +57,20 @@ Quiet Noise: If the noise level is low, the animation slows down, showing less d
 
 After the animation finishes, the user can press the "Next" button, which opens a dialogue box. This box provides important information
 
-![WhatsApp Image 2024-08-23 at 17 59 04_80d9e9d1](https://github.com/user-attachments/assets/919ec2c6-d747-4bbb-a3a8-15b5b7116393)
+![WhatsApp Image 2024-08-23 at 17 57 40_9b84f48f](https://github.com/user-attachments/assets/2d319c07-6d92-408c-9e7f-2faa9b3ab2c2)
 
 Noise Description: It tells the user what the noise level around them was like (e.g. quiet, moderate, loud).
 
-![WhatsApp Image 2024-08-23 at 17 57 40_9b84f48f](https://github.com/user-attachments/assets/2d319c07-6d92-408c-9e7f-2faa9b3ab2c2)
+![WhatsApp Image 2024-08-23 at 15 05 11_de2ef61a](https://github.com/user-attachments/assets/dadfacfa-5561-4489-a489-3767056efc7a)
+
 
 
 
 Eardrum Functionality: It explains how well the eardrum is working based on the recorded noise, and whether there are signs of damage.
 
 
-![WhatsApp Image 2024-08-23 at 15 05 11_de2ef61a](https://github.com/user-attachments/assets/dadfacfa-5561-4489-a489-3767056efc7a)
+![WhatsApp Image 2024-08-23 at 17 59 04_80d9e9d1](https://github.com/user-attachments/assets/919ec2c6-d747-4bbb-a3a8-15b5b7116393)
+
 
 
 Potential Problems: It warns the user about possible hearing issues that might occur due to the noise exposure, like hearing loss or ringing in the ears.
