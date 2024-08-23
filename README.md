@@ -15,7 +15,8 @@ Home screen
    i) Quick Hearing Test: This option allows users to go through a brief hearing test. This option is presented with a button  and a brief description, making it easy for users to understand its purpose.
    ii)Know Surrounding Noise: This feature also has a button and a description, it helps user  to check the surrounding noise level.
    iii)Peek Into the Ear: This option also has a button and a description, helps users to explore a virtual representation of the ear canal.
-![home screen](https://github.com/user-attachments/assets/270a4b97-b262-4306-8695-b298e0c02ab5)
+
+![WhatsApp Image 2024-08-23 at 20 37 09_bb1efc8f](https://github.com/user-attachments/assets/aa488671-b370-414c-a25c-c34283c287e7)
 
 
 Virtual Ear Animation  
@@ -121,7 +122,7 @@ Decibel monitoring screen:
 UI Changes:
 “ When user taps Start button, the screen records audio in surrounding .While audio recording , according to decibel level , the circle fills proportionally to audio captured. As the app records the surrounding noise, you'll see a dynamic waveform moving across the screen.”
 
-![WhatsApp Image 2024-08-23 at 17 06 42_b731443c](https://github.com/user-attachments/assets/19efb477-dcaa-42b4-8778-7e0d3fabacef)
+![WhatsApp Image 2024-08-23 at 20 37 09_a12738ca](https://github.com/user-attachments/assets/48ff166f-b1c0-46b9-a438-7415327f1e0f)
 
 
 “ When user taps Stop button,, it will show Average decibels recorded during the time , he/she recording
