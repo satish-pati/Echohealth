@@ -112,3 +112,15 @@ UI Changes:
 Uses:
 
 “Monitoring the noise level in your surroundings can be crucial for protecting your hearing health. Prolonged exposure to high noise levels can lead to hearing damage or loss. By keeping track of the decibel level, you can make informed decisions, such as moving to a quieter area or using hearing protection when necessary. This feature helps you stay aware of potentially harmful noise environments, whether you're at work, home, or outdoors, contributing to long-term hearing safety and well-being.”
+
+Profile Screen
+![WhatsApp Image 2024-08-23 at 17 06 55_537549fd](https://github.com/user-attachments/assets/c3a19326-8dde-4c31-8900-0c16b2bef7d5)
+
+
+“User is asked to provide their username, email address, gender, and age to complete profile. This information is essential for creating a personalized experience within the app. ”
+
+ProfileDashBoard
+
+“ After completing the profile, it will show profile dashboard.”
+
+![WhatsApp Image 2024-08-23 at 17 06 55_17802f7e](https://github.com/user-attachments/assets/d77abfe9-6d43-4cf7-a0a3-e5287a57a5d3)
