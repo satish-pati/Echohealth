@@ -300,7 +300,7 @@ Profile Dashboard
 Contribution:
 
 
--Amar Gupta(CS23B004) :
+## Amar Gupta(CS23B004) :
 Research on ear :
 Ear Structure: Researched the human ear's anatomy and how sound travels through it to produce hearing.
 
@@ -309,13 +309,13 @@ Sound Effect on the Ear: Investigated how different noise levels impact the ear,
 Decibel Units and Safety Levels: Studied decibel units and identified safe and harmful sound exposure levels.
 Contributed 25% to the README, summarizing research on ear health and the app's purpose.
 
--Tejas Karthik(CS23B039) :
+ ## Tejas Karthik(CS23B039) :
  -	I’ve put up the idea of the project. Explained the functions to teammates. Coordinated them. 
  -	I did the Audiometry function frontend and backend logic which produces sounds from 0 db to 120 db at a particular frequency and repeats this experiment 6 times to measure the ear health of the user.
  -	I’ve done the Audiogram which creates a graph from the data of audiometry. 
  -	I’ve improved the other UI pages done by my teammates.
 
--Satish Pati(CS23B038) :
+## Satish Pati(CS23B038) :
 
 ### Virtual Ear Animation Video Player : ###
 
@@ -343,7 +343,7 @@ I set up a database to store information about ear health and tips. It includes 
 ### Gathering frames for creating Ear animation and creating a animation : ###
 "I gathered the necessary frames and then created a complete animation for the ear based on those frames."
 
-Binnu(CS23B037):
+## Binnu(CS23B037):
 Figma Layouts Design:
 
 Designed the app's layouts using Figma.
@@ -361,7 +361,7 @@ Helped with designing presentations in pitch : software’s used are photoshop a
 
 I Designed app logo using the Software adobe Illustrator.
 
--Saranya M- CS23B031 :
+## Saranya M- CS23B031 :
 
 Designed the initial app layouts on Figma.
 
@@ -369,7 +369,7 @@ UI codes for Login screen ,Home screen ,Splash Screen ,initial Results Screen an
 
 Helped in preparing 50% of  the Readme file.
 
--GaneshSai P- CS23B041:
+ ## GaneshSai P- CS23B041:
 
 "I implemented a scroll bar on the homepage, where tips are randomized each time and move from left to right, with new tips displayed every 10 seconds,, I also gathered the data of tips ".
 
