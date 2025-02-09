@@ -317,30 +317,30 @@ Contributed 25% to the README, summarizing research on ear health and the app's 
 
 -Satish Pati(CS23B038) :
 
--Virtual Ear Animation Video Player:
+- **Virtual Ear Animation Video Player**:
 
 I developed a video player that plays animations of a virtual ear, which records sound decibels in the background. This player visually demonstrates how the internal organs of the ear are affected by external sounds based on varying decibel levels.
 
--Decibel Recording and Display:
+- **Decibel Recording and Display**:
 
 I also created a Decibel screen that displays the current sound levels, including designing the user interface and implementing the audio recording logic. Additionally, I worked on calculating and displaying the average decibel levels based on the recorded data.
 
--Results Screen:
+- **Results Screen**:
 
 I created the Results screen, which pulls data from the database to show hearing levels and average decibels for each ear. It also provides tips to help users protect their hearing and prevent damage.
 
--Profile Screen Backend:
+- **Profile Screen Backend**:
 I implemented the backend logic for the Profile screen, which involves retrieving, saving, and displaying user data on the Profile Dashboard. This includes developing the necessary functions to fetch user details and store updated information.
 
--MainActivity Navigations:
+- **MainActivity Navigations**:
 
 I implemented the navigation logic within the homeScreen, ensuring smooth transitions between different screens of the app. This includes setting up navigation components to handle user interactions and navigating to features like the Decibel screen, Results screen, and Profile screen.
 
--DataBase for Earhealth and Tips:
+- **DataBase for Earhealth and Tips**:
 
 I set up a database to store information about ear health and tips. It includes a table that tracks things like the decibel level, how long and often someone is exposed to noise, the risk level, and possible hearing problems in the future.
 
--Gathering frames for creating Ear animation and creating a animation:
+- **Gathering frames for creating Ear animation and creating a animation**:
 "I gathered the necessary frames and then created a complete animation for the ear based on those frames."
 
 Binnu(CS23B037):
