@@ -325,7 +325,7 @@ I developed a video player that plays animations of a virtual ear, which records
 
 I also created a Decibel screen that displays the current sound levels, including designing the user interface and implementing the audio recording logic. Additionally, I worked on calculating and displaying the average decibel levels based on the recorded data.
 
-- **Results Screen**:
+- ### Results Screen ###:
 
 I created the Results screen, which pulls data from the database to show hearing levels and average decibels for each ear. It also provides tips to help users protect their hearing and prevent damage.
 
