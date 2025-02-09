@@ -51,8 +51,10 @@ EchoHealth is an innovative **Android application** designed to raise awareness 
 1. **Clone the repository**:  
    ```sh
    git clone https://github.com/yourusername/EchoHealth.git
-2.Open in Android Studio.
-3.Build & Run the app on an Android device.
+   
+2.**Open in Android Studio**.
+
+3.**Build & Run the app on an Android device**.
 
 ## 📷 Screenshots
 The screen serves as the login interface for the Echo Health app.
