@@ -1,6 +1,58 @@
 
-# Echohealth
+# 🎧 EchoHealth - Ear Health Monitoring App  
 
+## 🏥 Project Description  
+EchoHealth is an innovative **Android application** designed to raise awareness about **ear health** by monitoring sound levels, providing audiometry tests, and visualizing how noise exposure impacts internal ear organs. Our app aims to **prevent hearing loss** and encourage **better auditory health** through real-time monitoring and personalized insights.  
+
+## 🎯 SDG Goals Addressed  
+### **Goal 3: Good Health and Well-being**  
+- 📢 **Lack of Awareness**: People underestimate the risks of prolonged exposure to high-decibel sounds.  
+- ⚠ **Global Hearing Loss Risk**: According to **WHO**, over **1 billion people (aged 12-35)** risk **hearing loss** due to loud recreational sounds.  
+- 🩺 **Preventive Measures**: EchoHealth provides proactive ear health solutions to **reduce hearing damage** and promote **better hearing habits**.  
+
+## ✨ Key Features  
+### 🎵 **Virtual Ear Visualization**  
+- A **3D interactive model** of the ear to **visually depict** how excessive noise affects internal ear organs.  
+- Helps users **understand the impact** of sound exposure in a clear and systematic way.  
+
+### 🔊 **Real-Time Sound Level Monitoring**  
+- Uses the **device microphone** to measure **environmental decibel levels**.  
+- Displays **live sound intensity** on a **dashboard**, helping users recognize dangerous noise levels.  
+
+### 👂 **Hearing Health Monitoring**  
+#### 🧪 **Audiometry Testing**  
+- Built-in **hearing test** to evaluate the user’s ability to hear different frequencies.  
+- Generates an **Audiogram** to **track hearing health over time**.  
+
+#### 📚 **Personalized Ear Health Tips & Resources**  
+- Provides **customized advice** based on the **user’s hearing test results** and **sound exposure history**.  
+- Suggests ways to **protect hearing** and **prevent common ear issues** like tinnitus & infections.  
+
+### 📊 **Dashboard & Data Storage**  
+- **Securely stores audiometry results & sound exposure history**.  
+- Allows users to **track their hearing trends** and take proactive steps.  
+- Preventive care recommendations based on **real-time and stored data**.  
+
+## 🛠️ Technologies Used  
+| Technology | Purpose |  
+|------------|---------|  
+| **Kotlin** | Core development language for the app |  
+| **Room Database** | Local storage for audiometry results & settings |  
+| **Android Audio APIs** | Captures audio, generates test tones, manages settings |  
+| **Jetpack Compose** | Modern UI framework for better design & performance |  
+| **XML Layouts** | UI compatibility with legacy components |  
+
+## 🚀 Why EchoHealth?  
+✅ **No existing ear health apps** provide a **clear visualization** of how sound affects the inner ear.  
+✅ Unlike Apple's **hearing features (AirPods-only)**, EchoHealth is accessible to **everyone**.  
+✅ **Affordable & Systematic Approach** to ear health, making it more practical and effective.  
+
+## 📥 Installation  
+1. **Clone the repository**:  
+   ```sh
+   git clone https://github.com/yourusername/EchoHealth.git
+
+## 📷 Screenshots
 The screen serves as the login interface for the Echo Health app.
  The app's name, "Echo Health," is prominently displayed at the top.
 Below the image, a welcome message is displayed.
